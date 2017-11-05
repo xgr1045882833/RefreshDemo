@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //哈哈哈哈https://github.com/xgr1045882833/RefreshDemo.git
+
         setViews();
         initData();
 
