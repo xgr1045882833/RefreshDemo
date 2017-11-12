@@ -8,6 +8,7 @@ public class MyClass {
     //哈哈哈
 
     private String name;
+    private int age;
 
     public MyClass(String name) {
         this.name = name;
