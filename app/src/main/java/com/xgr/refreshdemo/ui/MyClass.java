@@ -9,6 +9,7 @@ public class MyClass {
 
     private String name;
     private int age;
+    private int number;
 
     public MyClass(String name) {
         this.name = name;
