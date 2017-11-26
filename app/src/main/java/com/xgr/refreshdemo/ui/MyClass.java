@@ -11,6 +11,10 @@ public class MyClass {
     private int age;
     private int number;
     private int year;
+    private int month;
+    private int day;
+
+    //private String address;
 
     public MyClass(String name) {
         this.name = name;
