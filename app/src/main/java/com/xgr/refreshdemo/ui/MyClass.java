@@ -17,6 +17,7 @@ public class MyClass {
     private String address;
 
     private String house;
+    private String car;
 
 
     public MyClass(String name) {
