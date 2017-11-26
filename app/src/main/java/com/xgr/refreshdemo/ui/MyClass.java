@@ -14,7 +14,7 @@ public class MyClass {
     private int month;
     private int day;
 
-    //private String address;
+    private String address;
 
     public MyClass(String name) {
         this.name = name;
