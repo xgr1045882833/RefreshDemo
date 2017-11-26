@@ -16,6 +16,9 @@ public class MyClass {
 
     private String address;
 
+    private String house;
+
+
     public MyClass(String name) {
         this.name = name;
     }
